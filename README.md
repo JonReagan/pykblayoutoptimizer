@@ -20,7 +20,7 @@ This application is released under the GPLv3 license.  Please see the LICENSE fi
 ## How to Use  
 When you run this script, a prompt will ask for the file that you would like to use to create your suggested keyboard layout.  
 Type the entire directory, including the file and extension.  **At this time, only .txt files are supported. Please convert
-your writing suggestion to .txt if needed.**
+your writing sample to .txt if needed.**
 
 For example, you could write /home/user/helloworld.txt if on Linux, or C:\Users\UserName\Documents\HelloWorld.txt on Windows.
 Hit "Enter" on your keyboard once you have entered the file location name.  Depending on the size of the file, it may take up 

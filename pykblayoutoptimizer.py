@@ -1,5 +1,6 @@
 # PyKBLayoutOptimizer - The Python Keyboard Layout Optimizer
-# v1.0 release 9/21/2020 - Jon Reagan
+# v1.0 initial release: 9/21/2020 - Jon Reagan
+# v1.1 release: 12/25/2020 - Jon Reagan
 # Released under GPLv3 - see README file as well as license in Github folder for more information
 
 import collections
@@ -25,7 +26,7 @@ def letter_stats(source_file, case_sensitive=False):
     print("=================================================================================================================================")
     print("|", optlist[25], "|", optlist[21], "|", optlist[17], "|", optlist[13], "|", optlist[9], "|", optlist[10], "|", optlist[14], "|", optlist[18], "|", optlist[22], "|", optlist[24], "|")
     print("=============================================================================================================================")
-    print(" |", optlist[8], "|", optlist[7], "|", optlist[5], "|", optlist[3], "|", optlist[1], "|", optlist[0], "|", optlist[2], "|", optlist[4], "|", optlist[6], "|")
+    print(" |", optlist[8], "|", optlist[7], "|", optlist[5], "|", optlist[1], "|", optlist[3], "|", optlist[2], "|", optlist[0], "|", optlist[4], "|", optlist[6], "|")
     print("========================================================================================================================")
     print("           |", optlist[23], "|", optlist[19], "|", optlist[15], "|", optlist[11], "|", optlist[12], "|", optlist[16], "|", optlist[21], "|")
     print("           ==========================================================================================")

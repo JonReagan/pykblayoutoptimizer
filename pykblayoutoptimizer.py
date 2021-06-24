@@ -24,7 +24,7 @@ def letter_stats(source_file, case_sensitive=False):
     optlist = counts.most_common()
     print("                                    **Suggested Keyboard Layout**")
     print("=================================================================================================================================")
-    print("|", optlist[25], "|", optlist[21], "|", optlist[17], "|", optlist[13], "|", optlist[9], "|", optlist[10], "|", optlist[14], "|", optlist[18], "|", optlist[22], "|", optlist[24], "|")
+    print("|", optlist[25], "|", optlist[20], "|", optlist[17], "|", optlist[13], "|", optlist[9], "|", optlist[10], "|", optlist[14], "|", optlist[18], "|", optlist[22], "|", optlist[24], "|")
     print("=============================================================================================================================")
     print(" |", optlist[8], "|", optlist[7], "|", optlist[5], "|", optlist[1], "|", optlist[3], "|", optlist[2], "|", optlist[0], "|", optlist[4], "|", optlist[6], "|")
     print("========================================================================================================================")

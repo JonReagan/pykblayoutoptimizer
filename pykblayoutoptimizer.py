@@ -1,6 +1,7 @@
 # PyKBLayoutOptimizer - The Python Keyboard Layout Optimizer
 # v1.0 initial release: 9/21/2020 - Jon Reagan
 # v1.1 release: 12/25/2020 - Jon Reagan
+# v1.2 release: 6/23/2021 - Jon Reagan
 # Released under GPLv3 - see README file as well as license in Github folder for more information
 
 import collections

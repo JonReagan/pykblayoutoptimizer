@@ -12,10 +12,10 @@ format:  **| (a, 20) |**
 Each key is contained in the "|" characters, and inside you can see the suggested letter ("a" in our expample)
 and the count of the total number of times that character appears in your text ("20" in our example).  
 
-This application is released under the GPLv3 license.  Please see the LICENSE file for a copy of the license. 
+This application is released under the GPLv3 license and comes with absolutely no warranty.  Please see the LICENSE file for a copy of the license. 
 
 ## Requirements 
-* Python 3 - this app has been build using Python 3.8.  It uses the "collections" and "string" built-in modules.
+* Python 3 - this app has been built using Python 3.8.  It uses the "collections" and "string" built-in modules.
 
 ## How to Use  
 When you run this script, a prompt will ask for the file that you would like to use to create your suggested keyboard layout.  

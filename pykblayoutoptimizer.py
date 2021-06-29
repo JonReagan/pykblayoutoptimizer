@@ -9,6 +9,8 @@ import string
 
 # have user provide file location and save to source_file variable
 print("Welcome to PyKBLayoutOptimizer - a keyboard layout optimizer written in Python")
+print("This application is released under the GPLv3 license and comes with absolutely no warranty.  Please see the LICENSE file for a copy of the license.")
+
 source_file = input("Enter file name with directory and extension - i.e. /home/user/file.txt:")
 
 # define letter_stats to gather letter counts from source_file
